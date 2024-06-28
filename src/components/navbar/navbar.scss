@@ -1,0 +1,24 @@
+.navbar {
+    height: 100px;
+}
+
+.wrapper {
+    max-width: 1366px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+
+    h3 {
+        margin: 10px 10px 10px 30px;
+    }
+
+    span {
+        font-weight: bold;
+    }
+
+    .social {
+        display: flex;
+        gap: 20px;
+    }
+}
